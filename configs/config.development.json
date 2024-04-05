@@ -1,0 +1,12 @@
+{
+    "appium_server_url": "http://localhost:4723",
+    "capabilities": {
+        "platformName": "Android",
+        "automationName": "uiautomator2",
+        "deviceName": "a23f8075",
+        "platformVersion": "11.0",
+        "appPackage": "",
+        "appActivity": "",
+        "autoGrantPermissions": true
+    }
+}
