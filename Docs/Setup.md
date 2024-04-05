@@ -44,7 +44,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
    - You can start the Appium server by running `appium` in your terminal. This will be necessary before executing any tests.
 
 4. **Clone the Project Repository** (if not already done):
-   - Use `git clone https://github.com/Sami-sfz/Score_Project.git` to clone the project to your local machine.
+   - Use `git clone https://github.com/Sami-sfz/Score.git` to clone the project to your local machine.
 
 ## Running the Tests
 
